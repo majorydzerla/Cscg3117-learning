@@ -10,21 +10,21 @@ This repository contains all coursework tasks, lab exercises, and project milest
 
 ## **Team Members & Roles**  
 
-**Name**: Wirba Majory 
-**Role**: Team Lead / Scrum Master
-**Responsibilities**: Coordinates team activities, ensures Agile processes 
+- **Name**: Wirba Majory 
+- **Role**: Team Lead / Scrum Master
+- **Responsibilities**: Coordinates team activities, ensures Agile processes 
 
-**Name**: Yenwong Marion 
-**Role**: Product Owner 
-**Responsibilities**: Defines requirements, prioritizes backlog 
+- **Name**: Yenwong Marion 
+- **Role**: Product Owner 
+- **Responsibilities**: Defines requirements, prioritizes backlog 
 
-**Name**: Ashley Burinyuy
-**Role**: Lead Developer 
-**Responsibilities**: Handles core system development 
+- **Name**: Ashley Burinyuy
+- **Role**: Lead Developer 
+- **Responsibilities**: Handles core system development 
 
-**Name**: Ticha Ezekiel 
-**Role**: QA / Tester 
-**Responsibilities**: Tests features, verifies quality 
+- **Name**: Ticha Ezekiel 
+- **Role**: QA / Tester 
+- **Responsibilities**: Tests features, verifies quality 
 
 > *Note: Roles are flexible and may change during the semester.*
 
